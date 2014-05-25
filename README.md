@@ -1,4 +1,4 @@
-GettingAndCleaningDataCoursera
+GettingAndCleaningDataCoursera -  Project Readme
 =============================
 
 The current file describes the steps needed to run the run_analysys.R file.
